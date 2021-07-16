@@ -1,0 +1,19 @@
+{
+  "name": "notification-pwa-server",
+  "version": "1.0.0",
+  "description": "Push notification para web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmylunad/notification-pwa-server.git"
+  },
+  "author": "Jimmy Luna <jimmylunad@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmylunad/notification-pwa-server/issues"
+  },
+  "homepage": "https://github.com/jimmylunad/notification-pwa-server#readme"
+}
